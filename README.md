@@ -1,8 +1,15 @@
-### Hi there 👋
+### Eureka, You found this Repo.
+## Myself, I am Ritick Saha.
+
+- 🔭 I’m currently working as a **Flutter Developer**
+- ⚡ Fun fact: You can add stars to all my repositories, Thanks in advance 😀
+
+## Stats 
+
+| <img src="https://github-readme-stats.vercel.app/api?username=RitickSaha&show_icons=true&count_private=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitickSaha"/> |
+|:------------:|:------------:|
 
 <!--
-**RitickSaha/RitickSaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+>### Thanks For joining!
+>### _Bella ciao_
