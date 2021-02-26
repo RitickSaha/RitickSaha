@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 -->
 
 >### Thanks For joining!
->### _Bella ciao_
+>### _Bella ciao
